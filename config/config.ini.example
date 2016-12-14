@@ -33,7 +33,7 @@
 #encounter-blacklist:   # blacklist of pokemon ids to NOT encounter. Syntax [id,id,id,id] (Do not use with whitelist)
 
 # Misc
-#gmaps-key:             # your Google Maps API key
+gmaps-key:AIzaSyAb-3AN3x7Yb2HGQbpEWLOK434hfkAo_N0
 #proxy:                 # Proxy URL e.g. socks5://127.0.0.1:9050 or a list of proxies e.g. [socks5://127.0.0.1:9050,socks5://127.0.0.1:9050]
 #proxy-timeout:         # Timeout before proceeding with next proxy while checking if the proxy works, (default 5)
 #proxy-display:         # Used with -ps, full = display complete proxy address. Index = displays just the index for that proxy (default index)
